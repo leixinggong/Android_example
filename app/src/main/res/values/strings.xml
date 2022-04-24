@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Android_example</string>
+    <string name="add">添加</string>
+    <string name="remove">删除</string>
+    <string name="item1">item1</string>
+    <string name="more">更多操作</string>
+    <string name="context_menu">ContextMenu</string>
+    <string name="upload_file">上传文件</string>
+    <string name="download_file">下载文件</string>
+    <string name="puase_file">暂存文件</string>
+    <string name="popup_menu">popup_menu</string>
+    <string name="next">下一页</string>
+    <string name="dialog">Dialog</string>
 </resources>
